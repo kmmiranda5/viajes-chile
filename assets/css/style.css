@@ -99,34 +99,16 @@ body{
     margin-bottom: 1rem;
 }
 
-.container-formulario{
-    border-top: 2px solid #20a5ba;
-    padding-top: 2rem; 
-    padding-left: 4rem;
-    width: 90%;
-    margin-left: 4rem;
-    position: relative;
-    align-content: center;
-}
-
-
 .formulario{
-    background-color: blanchedalmond;
-    color: black;
-    text-align: center;
     width: 90%;
-    margin-left: 1rem;
-    margin-right: 1rem;
-    padding-top: 5rem;
-    padding-bottom: 5rem;
-    position: relative;
+    margin: auto;
+
 }
 
-.formulario button{
-    background-color: #38659e;
-    margin-top: 2rem;
+.titulo-contacto{
+    border-bottom: 2px solid #20a5ba;
+    margin-bottom: 2rem;
 }
-
 /*footer*/
 
 .footer{
