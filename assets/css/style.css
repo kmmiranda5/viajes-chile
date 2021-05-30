@@ -1,0 +1,144 @@
+body *{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Raleway', sans-serif;
+    background-color: #040404;
+}
+
+/* Estilos Navbar*/
+
+.navbar-color{
+    background-color: transparent;
+}
+
+/*Estilos Iconos y parrafos*/
+
+.container-icon{
+    color: whitesmoke;
+    padding-bottom: 6rem;
+}
+
+.fila-icon{
+    width: 90%;
+    border-top: 2px solid #20a5ba;
+    margin: 1rem auto;
+    padding-top: 2rem;
+    
+
+}
+
+.container-icon h1{
+    text-align: center;
+    margin-bottom: 2rem;
+    font: normal normal 600 Raleway;  
+    
+}
+
+.col-icon{
+    text-align: center;
+    
+    
+}
+.col-icon i{
+    background-color: #20a5ba;
+    width: 100%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.col-icon p{
+    text-align: justify;
+}
+
+/*Estilos Card*/
+.container-destacadas{
+    padding-bottom: 6rem;
+    color: blanchedalmond;
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+
+.container-destacadas h1{
+    text-align: center;
+    margin-bottom: 2rem; 
+    font: normal normal 600 Raleway;  
+
+}
+.fila-destacadas{
+    border-top: 2px solid #20a5ba;
+    padding-top: 2rem; 
+}
+
+.card{
+    background-color: #20a5ba;
+    margin-left:1rem;
+    margin-right:1rem;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.card img{
+    height: 13rem;
+}
+
+/*Estilos Iconos y parrafos*/
+
+.container-contacto{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    color: blanchedalmond;
+    
+}
+
+.container-contacto h1{
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.container-formulario{
+    border-top: 2px solid #20a5ba;
+    padding-top: 2rem; 
+    padding-left: 4rem;
+    width: 90%;
+    margin-left: 4rem;
+    position: relative;
+    align-content: center;
+}
+
+
+.formulario{
+    background-color: blanchedalmond;
+    color: black;
+    text-align: center;
+    width: 90%;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    position: relative;
+}
+
+.formulario button{
+    background-color: #38659e;
+    margin-top: 2rem;
+}
+
+/*footer*/
+
+.footer{
+    background-color: #20a5ba;
+    color: blanchedalmond;
+    vertical-align:middle;
+}
+
+.col-footer{
+    vertical-align: middle;
+    text-align: center;
+}
+.col-footer a i{
+    color: blanchedalmond;
+}
+
